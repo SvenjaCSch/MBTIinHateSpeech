@@ -36,3 +36,12 @@ can be analysed. Therefore 16 different types are created, consisting in four di
   ### overall
   - MBTI types tendency to Introversion and Intuition
   - correlation with the dataset -> bias?
+## References
+- [24a] (MBTI) Myers-Briggs Personality Type Dataset. 24. url:
+https : / / www . kaggle . com /datasets / datasnaek / mbti -type.
+- [24b] Hatred on Twitter DuringMeToo Movement. 24. url:
+https : / / www . kaggle . com /datasets / rahulgoel1106 /hatred- on- twitter- duringmetoo-
+movement.
+- [24e] The Preferences: E-I, S-N, T-F,J-P. 24. url: https : / / www .myersbriggs . org / my - mbti -personality-type/the-mbtipreferences/.
+- [PH15] Barbara Plank and Dirk Hovy. “Personality traits on twitter—or—how to get 1,500
+personality tests in a week”. In: Proceedings of the 6th workshop on computational approaches to subjectivity, sentiment and social media analysis. 2015, pp. 92–98.
